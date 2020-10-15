@@ -30,6 +30,6 @@ This is a native AppScript solution...just a little appscript...then using the b
 <!-- CONTACT -->
 ## Contact
 
-Nick Young - [@techupover](https://twitter.com/techupover) - usaussie@gmail.com
+Nick Young - [@techupover](https://twitter.com/techupover)
 
 Project Link: [https://github.com/usaussie/google-calendar-aggregator](https://github.com/usaussie/google-calendar-aggregator)
