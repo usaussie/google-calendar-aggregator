@@ -19,7 +19,7 @@ This is a native AppScript solution...just a little appscript...then using the b
 
 ## Getting Started
 
-* Copy the raw code from the Code.gs and email.html files to your appscript project
+* Copy the raw code from the Code.gs file to your appscript project
 * Keep the file names the same
 * Update the variables inside the Code.gs file to point to your results sheet, and tab name.
 * Run the set_sheet_headers() function, which will prompt for permissions
